@@ -1,0 +1,9 @@
+*.dll
+*.exe
+*.so
+*.db
+.vscode
+**/bin
+**/obj
+appsettings.json
+
